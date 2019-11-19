@@ -1,7 +1,5 @@
 import java.io.Serializable;
 
-// Supplied for your use in Assignment 4.
-
 public final class Threads implements Serializable {
 
 	private static final long serialVersionUID = -4262717086849844940L;
