@@ -1,6 +1,5 @@
 import java.io.Serializable;
 
-// Supplied for your use in Assignment 4.
 
 public final class Finishes implements Serializable {
 
