@@ -1,7 +1,5 @@
 import java.io.Serializable;
 
-// Supplied for your use in Assignment 4.
-
 public final class Materials implements Serializable {
 
 	private static final long serialVersionUID = -3782329522798093050L;
